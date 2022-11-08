@@ -9,3 +9,10 @@
 # GIT ignore
 * touch ./.gitignore
 * "*.o" -> .gitignore
+
+# GIT remote
+* git remote add github https://github.com/Weliras/sq_example
+# GIT push
+* git push github master
+# GIT clone
+* git clone github https://github.com/<user>/<repository>
