@@ -16,3 +16,10 @@
 * git push github master
 # GIT clone
 * git clone github https://github.com/<user>/<repository>
+
+# Branche
+* git branch develop
+* git checkout develop
+* git add .
+* git commit -m "My first commit in branch"
+* git push github develop
