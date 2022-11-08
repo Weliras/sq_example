@@ -19,7 +19,8 @@
 
 # Branche
 * git branch develop
+* git checkout develop
+* git add .
+* git commit -m "My first commit in branch"
+* git push github develop
 
-
-
-36363655625+3+6,+652+,+,
